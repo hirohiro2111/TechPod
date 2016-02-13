@@ -13,6 +13,7 @@ import AVFoundation
 //　UItabelViewのdelegate(デリゲート)メソッドをつかうための「プロトコル宣言」を行う
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
  //developだぁぁぁぁ
+    //margeだー( ´ω` )ああああ
     
     // storybourdでつかうtableviewを宣言
     @IBOutlet var table: UITableView!
