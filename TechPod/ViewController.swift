@@ -12,7 +12,8 @@ import AVFoundation
 // UItabelViewのDatadource(データソース)メソッドをつかうための「プロトコル宣言」を行う
 //　UItabelViewのdelegate(デリゲート)メソッドをつかうための「プロトコル宣言」を行う
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate {
- 
+ //developだぁぁぁぁ
+    
     // storybourdでつかうtableviewを宣言
     @IBOutlet var table: UITableView!
     //曲名を入れるための配列
